@@ -1,1 +1,1 @@
-# Embedded-Platform
+# Embedded platform project
